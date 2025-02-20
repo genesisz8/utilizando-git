@@ -11,5 +11,4 @@ git add .
 git commit -m "porque estou salvando???"
 
 -> Envia informação do PC para o Github
-git add
 git push
